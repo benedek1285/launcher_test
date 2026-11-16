@@ -1,0 +1,25 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "🎮 Új béta verzió elérhető!",
+      "content": "A legújabb béta verzió (v1.2.0) mostantól letölthető a launcherben. Új pályák és javított grafika!",
+      "date": "2026-11-17",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "🔧 Hibajavítások",
+      "content": "Kijavítottuk a multiplayer csatlakozási hibát és optimalizáltuk a FPS-t.",
+      "date": "2026-11-15",
+      "priority": "medium"
+    },
+    {
+      "id": 3,
+      "title": "📢 Közösségi esemény",
+      "content": "Csatlakozz a Discord szerverünkhöz a heti versenyért!",
+      "date": "2026-11-10",
+      "priority": "low"
+    }
+  ]
+}
